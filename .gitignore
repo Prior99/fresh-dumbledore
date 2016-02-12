@@ -1,0 +1,5 @@
+*.cert
+*.key
+*.csr
+node_modules/
+config.json

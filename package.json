@@ -1,0 +1,29 @@
+{
+  "name": "fresh-dumbledore",
+  "version": "1.0.0",
+  "description": "Fresh Dumbledore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prior99/fresh-dumbledore.git"
+  },
+  "keywords": [
+    "mumble",
+    "nodejs"
+  ],
+  "author": "Frederick Gnodtke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prior99/fresh-dumbledore/issues"
+  },
+  "homepage": "https://github.com/Prior99/fresh-dumbledore#readme",
+  "dependencies": {
+    "lame": "^1.2.3",
+    "mumble": "^0.3.9",
+    "node-samplerate": "^0.2.0",
+    "winston": "^2.1.1"
+  }
+}

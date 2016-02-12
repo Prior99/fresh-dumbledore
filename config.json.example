@@ -1,0 +1,12 @@
+{
+	"url" : "example.com",
+	"password" : "",
+	"name" : "Fresh Dumbledore",
+	"fromChannel" : "Fresh Dumbledores Büro Eingang",
+	"toChannel" : "Fresh Dumbledores Büro",
+	"queueChannel" : "Fresh Dumbledores Tür",
+	"songFile" : "./song.mp3",
+	"key" : "./bot.key",
+	"cert" : "./bot.cert",
+	"timeout": 20
+}
